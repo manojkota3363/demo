@@ -9,9 +9,8 @@ package manojkota.demo;
  * @author S545400
  */
 public class doctor {
-    doctor(){
+    
         
 
-}
     
 }
